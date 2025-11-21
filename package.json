@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-render-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js backend application created, tested, and deployed using GitHub Codespaces and hosted on Render.com. This project serves as a hands-on exercise for learning cloud deployment, version control, and backend development fundamentals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
